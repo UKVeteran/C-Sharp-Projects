@@ -1,0 +1,10 @@
+D:\Youtube\ImageCompress\ImageCompress\bin\Debug\ImageCompress.exe.config
+D:\Youtube\ImageCompress\ImageCompress\bin\Debug\ImageCompress.exe
+D:\Youtube\ImageCompress\ImageCompress\bin\Debug\ImageCompress.pdb
+D:\Youtube\ImageCompress\ImageCompress\obj\Debug\ImageCompress.csprojAssemblyReference.cache
+D:\Youtube\ImageCompress\ImageCompress\obj\Debug\ImageCompress.Form1.resources
+D:\Youtube\ImageCompress\ImageCompress\obj\Debug\ImageCompress.Properties.Resources.resources
+D:\Youtube\ImageCompress\ImageCompress\obj\Debug\ImageCompress.csproj.GenerateResource.cache
+D:\Youtube\ImageCompress\ImageCompress\obj\Debug\ImageCompress.csproj.CoreCompileInputs.cache
+D:\Youtube\ImageCompress\ImageCompress\obj\Debug\ImageCompress.exe
+D:\Youtube\ImageCompress\ImageCompress\obj\Debug\ImageCompress.pdb
