@@ -1,0 +1,10 @@
+E:\CpuMemMonitor\CpuMemMonitor\bin\Debug\CpuMemMonitor.exe.config
+E:\CpuMemMonitor\CpuMemMonitor\bin\Debug\CpuMemMonitor.exe
+E:\CpuMemMonitor\CpuMemMonitor\bin\Debug\CpuMemMonitor.pdb
+E:\CpuMemMonitor\CpuMemMonitor\obj\Debug\CpuMemMonitor.csprojAssemblyReference.cache
+E:\CpuMemMonitor\CpuMemMonitor\obj\Debug\CpuMemMonitor.Form1.resources
+E:\CpuMemMonitor\CpuMemMonitor\obj\Debug\CpuMemMonitor.Properties.Resources.resources
+E:\CpuMemMonitor\CpuMemMonitor\obj\Debug\CpuMemMonitor.csproj.GenerateResource.cache
+E:\CpuMemMonitor\CpuMemMonitor\obj\Debug\CpuMemMonitor.csproj.CoreCompileInputs.cache
+E:\CpuMemMonitor\CpuMemMonitor\obj\Debug\CpuMemMonitor.exe
+E:\CpuMemMonitor\CpuMemMonitor\obj\Debug\CpuMemMonitor.pdb
